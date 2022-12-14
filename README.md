@@ -1,9 +1,12 @@
-### Hi there. I'm Teja Tadepalli 👋
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>   <!--GIF-->
+<div>
+<div align="left">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=600&size=30&pause=1000&color=F7F7F7&background=000000&center=true&vCenter=true&width=450&lines=Hi+there.+I'm+Teja+Tadepalli+%F0%9F%91%8B)](https://git.io/typing-svg)
 </div>
-
+<div id="header" align="right">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="250"/>   <!--GIF-->
+</div>
+</div>
 <h2>
 
 🙋🏻‍♂️ About Me
