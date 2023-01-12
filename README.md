@@ -39,10 +39,10 @@
 
 <div id="badges" align="center">
   
-  ![My github stats](https://github-readme-stats.vercel.app/api?username=TejaTadepalli&show_icons=true&theme=dark)
+  ![My github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=TejaTadepalli&show_icons=true&theme=dark)
   <!--Stats-->
 
-  ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=TejaTadepalli&layout=compact)
+  ![Top Languages Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TejaTadepalli&layout=compact)
   <!--Languages Used-->
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TejaTadepalli"/>
